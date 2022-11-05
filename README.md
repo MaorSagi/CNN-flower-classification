@@ -1,0 +1,2 @@
+# CNN-flower-classification (May 2021)
+The goal of this project is to classify flowers using CNN and pre-trained models and compare the performance. The notebook with the project code is attached to this repository and the report in the Machine Learning - Assignment 3.pdf file attached to this project ([link](https://github.com/MaorSagi/CNN-flower-classification/blob/main/Machine%20Learning%20-%20Assignment%203.pdf)). 
